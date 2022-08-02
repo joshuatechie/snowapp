@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_854283_snowapp_snowtable">x_854283_snowapp_snowtable</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SNO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>joshuaprakash</sys_created_by>
+        <sys_created_on>2022-08-02 11:43:26</sys_created_on>
+        <sys_id>8cafd3f9970951102f55f0b0f053af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNO</sys_name>
+        <sys_package display_value="SnowApp" source="x_854283_snowapp">5d1f17b9970951102f55f0b0f053afa5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SnowApp">5d1f17b9970951102f55f0b0f053afa5</sys_scope>
+        <sys_update_name>sys_number_8cafd3f9970951102f55f0b0f053af58</sys_update_name>
+        <sys_updated_by>joshuaprakash</sys_updated_by>
+        <sys_updated_on>2022-08-02 11:43:26</sys_updated_on>
+    </sys_number>
+</record_update>
